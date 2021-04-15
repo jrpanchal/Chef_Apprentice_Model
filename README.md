@@ -21,7 +21,7 @@ K-Nearest Neighbors Regression (KNN)
 I was tasked with using the information in our course case to build a predictive model on a binary response variable (Y-variable). This assignment encompasses feature engineering, model preparation, variable selection, and model development.
 
 #### Final AUC score
-0.8362
+0.8612
 
 Model Used in this analysis: 
 
