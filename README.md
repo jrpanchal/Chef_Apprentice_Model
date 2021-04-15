@@ -9,7 +9,7 @@ I was tasked with using the information in our course case to build a predictive
 #### Final score
 0.8041
 
-Model Used in this analysis: 
+Model Used in this analysis 
 
 OLS Regression (standard linear regression)
 Lasso Regression
@@ -23,7 +23,7 @@ I was tasked with using the information in our course case to build a predictive
 #### Final AUC score
 0.8612
 
-Model Used in this analysis: 
+Model Used in this analysis
 
 Logistic Regression
 K-Nearest Neighbors Classification (KNN)
