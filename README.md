@@ -2,7 +2,7 @@
 
 ## Types of Modeling 
 
-### Regression Model Development 
+### 1) Regression Model Development 
 
 I was tasked with using the information in our course case to build a predictive model on a continuous response variable (Y-variable). This assignment encompasses feature engineering, model preparation, variable selection, and model development.
 
@@ -16,7 +16,7 @@ Lasso Regression
 Bayesian Automatic Relevance Determination (ARD)
 K-Nearest Neighbors Regression (KNN)
 
-### Classification Model Development 
+### 2) Classification Model Development 
 
 I was tasked with using the information in our course case to build a predictive model on a binary response variable (Y-variable). This assignment encompasses feature engineering, model preparation, variable selection, and model development.
 
